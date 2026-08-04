@@ -8,7 +8,7 @@ An end-to-end Machine Learning project for **Customer Churn Prediction** using t
 
 * **YouTube Video:** [Watch Project Demo](https://youtube.com)
 * **Aparat Video:** [مشاهده ویدئوی پروژه در آپارات](https://aparat.com)
-* **📄 Project Documentation:** [Download Full Report (Google Drive)](https://drive.google.com)
+* **📄 Project Documentation:** [Download Full Report (Google Drive)](https://drive.google.com/file/d/1YftOs1yNOoe7aEkySyRVD0yShRdq6hn1/view?usp=drive_link)
 
 ---
 
