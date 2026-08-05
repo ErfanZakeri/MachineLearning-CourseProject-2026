@@ -18,7 +18,7 @@ An end-to-end Machine Learning project for **Customer Churn Prediction** using t
 | :--- | :--- | :--- | :--- |
 | **Erfan Zakeri** | 40118373 | [@ErfanZakeri](https://github.com/ErfanZakeri) | Data Analysis, Machine Learning Models, Evaluation |
 | **Mohsen Karimi** | 40121913 | [@MooohsenKarimi](https://github.com/MooohsenKarimi) | Data Preprocessing, Feature Engineering |
-| **Mohammadparsa Zare** | 40118953 | [@username](https://github.com/) | Visualization, Model Comparison & Documentation |
+| **Mohammadparsa Zare** | 40118953 | [@mohammadparsazaree](https://github.com/) | Visualization, Model Comparison & Documentation |
 
 * **Supervisors:** Dr. Nikofard
 * **Institution:** K. N. Toosi University of Technology
